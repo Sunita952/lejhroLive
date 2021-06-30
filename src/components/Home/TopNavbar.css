@@ -1,0 +1,112 @@
+.custom_navbar
+{
+    background:white !important;
+    position:fixed;   
+}
+
+.custom_nav_items
+{
+  font-size:1.0rem;
+}
+
+/*----for scrollNav-----*/
+.sticky-top
+{
+  width:100%;
+  padding-top:52px;
+  position:fixed;
+}
+
+.custom_nav2_links
+{
+  font-size:0.8rem;
+  font-weight:bold;
+}
+
+.custom_background
+{
+  background:linear-gradient(90deg, rgb(174, 170, 216)0%, rgb(42, 149, 254) 100%);
+}
+
+.image_lejhro_one
+{
+  position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	min-width: 980px;
+	height: 100%;
+	overflow: hidden;
+}
+
+.btn_on_panel
+{
+  position:absolute;
+  top: 180px;;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:transparent;
+  color:  #0000cc;
+  font-size: 16px;
+  padding: 6px 12px;
+  border: 1px solid #0000cc;
+  cursor: pointer;
+  border-radius: 12px;
+  font-weight:bold;
+}
+
+.custom_panel
+{
+  padding-top:10px;
+  background-color:transparent;
+  height:250px;
+  border:2px solid #ebebe0;
+  box-shadow:15px #888888;
+}
+
+.btn_on_panel:hover
+{
+  color:black;
+}
+
+.fa-icon {
+  color: #0000cc;
+  padding-left:160px;
+}
+
+.custom_column
+{
+  column-width:0.5px;
+}
+.custom_card1
+{
+  padding-left:60px;
+  width:300px;
+  border:none;
+}
+
+.custom_card2
+{
+  width:250px;
+  border:none;
+  padding-top:30px;
+}
+
+.custom_card3
+{
+  width:250px;
+  border:none;
+  padding-top:60px;
+}
+
+.custom_card4
+{
+  width:250px;
+  border:none;
+  padding-top:90px;
+}
+
+.custom_card_image
+{
+   height:300px;
+}

@@ -1,0 +1,343 @@
+.custom_nav2_links
+{
+  font-size:0.8rem;
+  font-weight:bold;
+}
+
+.custom_background
+{
+  background:linear-gradient(90deg, rgb(174, 170, 216)0%, rgb(42, 149, 254) 100%);
+}
+
+.image_lejhro_one
+{
+  position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	min-width: 980px;
+	height: 100%;
+	overflow: hidden;
+}
+
+.btn_on_panel
+{
+  position:absolute;
+  top: 180px;;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:transparent;
+  color:  #0000cc;
+  font-size: 16px;
+  padding: 6px 12px;
+  border: 1px solid #0000cc;
+  cursor: pointer;
+  border-radius: 12px;
+  font-weight:bold;
+}
+
+.custom_panel
+{
+  padding-top:10px;
+  background-color:transparent;
+  height:250px;
+  border:2px solid #ebebe0;
+  box-shadow:15px #888888;
+}
+
+.btn_on_panel:hover
+{
+  color:black;
+}
+
+.fa-icon {
+  color: #0000cc;
+  padding-left:160px;
+}
+
+.custom_column
+{
+  column-width:0.5px;
+}
+.custom_card1
+{
+  padding-left:60px;
+  width:300px;
+  border:none;
+}
+
+.custom_card2
+{
+  width:250px;
+  border:none;
+  padding-top:30px;
+}
+
+.custom_card3
+{
+  width:250px;
+  border:none;
+  padding-top:60px;
+}
+
+.custom_card4
+{
+  width:250px;
+  border:none;
+  padding-top:90px;
+}
+
+.custom_card_image
+{
+   height:300px;
+}
+
+@keyframes animateimage
+{
+	20%
+	{
+		border-radius:50%;
+  }
+  40%
+	{
+		transition: height 5s, width 5s, border-radius 5s;
+  }
+  60%
+	{
+		transition: height 4s, width 4s, border-radius 4s;
+	}
+	80%
+	{
+		transition: height 3s, width 3s, border-radius 3s;
+	}
+	100%
+	{
+		transition: height 2s, width 2s, border-radius 2s;
+	}
+	
+}
+
+.image_lejhro_two_dynamic
+{
+	width:80%;
+	height:250px;
+	margin:1%;
+	animation:animateimage;
+	animation-duration:10s;
+	animation-iteration-count:infinite;
+}
+
+.text_heading_lejhro {
+  font-family: FuturaPTBold;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: justify;
+  color: #373737
+}
+
+.text_content_lejhro {
+  font-style: normal;
+  font-size: 20px;
+  text-align: justify;
+  color: #575757;
+  column-count: 2;
+}
+
+
+
+@media screen and (max-width:768px) {
+  body {
+    background: white;
+  }
+
+  .App-header_lejhro {
+    height: 170px;
+  }
+
+  .image_lejhro_logo {
+    width: 30%;
+  }
+
+  .btn_lejhro {
+    font-size: auto;
+    width: 50%;
+  }
+  
+  .text_on_image
+  {
+    font-size:12px;
+  }
+
+  .text_on_image1
+{ 
+  font-size:12px;
+}
+
+  .text-style {
+    font-size: 1.3rem;
+  }
+
+  .image_lejhro_one {
+    width: 95%;
+  }
+
+  .custom_nav2_links
+  {
+    font-size:0.5rem;
+  }
+
+  .sticky-top
+  {
+    padding-top:30px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+  body {
+    background: white;
+  }
+
+  .btn_lejhro {
+    font-size: auto;
+    width: 70%;
+  }
+
+  .text-style {
+    font-size: 1.2rem;
+  }
+
+  .image_lejhro_two_dynamic {
+    width: 100%;
+  }
+
+  .image_lejhro_two_dynamic {
+    height: 150px;
+    width: 150px;
+    transition: height 3s, width 5s, border-radius 5s;
+  }
+
+  .image_lejhro_two_dynamic:hover {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+
+  .custom_nav2_links
+  {
+    font-size:0.6rem;
+  }
+  .sticky-top
+  {
+    padding-top:65px;
+  }
+}
+
+/*.fixed
+{
+  position: fixed;
+  width:100%;
+  top:20;
+  z-index:30;
+}
+.image_lejhro_two_dynamic {
+  width: 100%;
+}
+
+.image_lejhro_two_dynamic {
+  height: 200px;
+  width: 200px;
+  transition: height 3s, width 5s, border-radius 5s;
+}
+
+.image_lejhro_two_dynamic:hover {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}*/
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.floating_fb
+{
+  position:fixed;
+  left:5px;
+  bottom:200px;
+}
+
+.floating_insta
+{
+  position:fixed;
+  left:5px;
+  bottom:240px;
+}
+
+.floating_lkn
+{
+  position:fixed;
+  left:5px;
+  bottom:280px;
+}
+
+.floating_ttr
+{
+  position:fixed;
+  left:5px;
+  bottom:320px;
+}
+
+.centermode1
+{
+   border:15px solid white;
+   margin:auto;
+}
+
+.slick-arrow
+{
+  color:black;
+}
+
+.slick-prev
+{
+  z-index:100;
+  left:20px !important;
+}
+
+.slick-next
+{
+  z-index:100;
+  right:20px !important;
+}
+
+
+#fixedArrow>div> svg {
+  width: 2em;
+  height: 2em;
+  color: #114FA2;
+  margin: auto;
+}
+#fixedArrow>div>span{
+  font-size: small;
+}
+
+/* ---- For Floating ScrollTopIcons Arrow ------ */
+#fixedArrowIcons{
+  position: fixed;
+  left:2%;
+  z-index: 1;
+  bottom: 2em;
+  display: block;
+}  
+
+#fixedArrowIcons>div> svg{
+    width: 5em;
+    height: 5em;
+    margin: auto;
+  }
+  #fixedArrowIcons>div>span{
+    font-size: small;
+  }
+
