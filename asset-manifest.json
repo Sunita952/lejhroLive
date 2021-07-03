@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/lejhroLive/static/css/main.3b37cd64.chunk.css",
-    "main.js": "/lejhroLive/static/js/main.a34f98ef.chunk.js",
-    "main.js.map": "/lejhroLive/static/js/main.a34f98ef.chunk.js.map",
+    "main.js": "/lejhroLive/static/js/main.3f8ee489.chunk.js",
+    "main.js.map": "/lejhroLive/static/js/main.3f8ee489.chunk.js.map",
     "runtime-main.js": "/lejhroLive/static/js/runtime-main.13e5cfa2.js",
     "runtime-main.js.map": "/lejhroLive/static/js/runtime-main.13e5cfa2.js.map",
     "static/css/2.d45d6843.chunk.css": "/lejhroLive/static/css/2.d45d6843.chunk.css",
-    "static/js/2.ad242b15.chunk.js": "/lejhroLive/static/js/2.ad242b15.chunk.js",
-    "static/js/2.ad242b15.chunk.js.map": "/lejhroLive/static/js/2.ad242b15.chunk.js.map",
+    "static/js/2.e69f9654.chunk.js": "/lejhroLive/static/js/2.e69f9654.chunk.js",
+    "static/js/2.e69f9654.chunk.js.map": "/lejhroLive/static/js/2.e69f9654.chunk.js.map",
     "static/js/3.4929c714.chunk.js": "/lejhroLive/static/js/3.4929c714.chunk.js",
     "static/js/3.4929c714.chunk.js.map": "/lejhroLive/static/js/3.4929c714.chunk.js.map",
     "index.html": "/lejhroLive/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/lejhroLive/static/css/2.d45d6843.chunk.css.map",
     "static/css/main.3b37cd64.chunk.css.map": "/lejhroLive/static/css/main.3b37cd64.chunk.css.map",
-    "static/js/2.ad242b15.chunk.js.LICENSE.txt": "/lejhroLive/static/js/2.ad242b15.chunk.js.LICENSE.txt"
+    "static/js/2.e69f9654.chunk.js.LICENSE.txt": "/lejhroLive/static/js/2.e69f9654.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13e5cfa2.js",
     "static/css/2.d45d6843.chunk.css",
-    "static/js/2.ad242b15.chunk.js",
+    "static/js/2.e69f9654.chunk.js",
     "static/css/main.3b37cd64.chunk.css",
-    "static/js/main.a34f98ef.chunk.js"
+    "static/js/main.3f8ee489.chunk.js"
   ]
 }
