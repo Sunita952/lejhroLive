@@ -16,12 +16,12 @@ const App = () => {
    return (
       <>
             <Switch>
-               <Route exact path='/' component={Insights} />
-               <Route path='/research' component={Research} />
-               <Route path='/productdev' component={ProductDev} />
-               <Route path='/consulting' component={Consulting} />
-               <Route path='/outsourcing' component={Outsourcing} />
-               <Route path='/about' component={About} />
+               <Route exact path="/" component={Insights} />
+               <Route path="/research" component={Research} />
+               <Route path="/productdev" component={ProductDev} />
+               <Route path="/consulting" component={Consulting} />
+               <Route path="/outsourcing" component={Outsourcing} />
+               <Route path="/about" component={About} />
             </Switch>
             <Footer />
       </>
