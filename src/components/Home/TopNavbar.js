@@ -19,25 +19,25 @@ function TopNavbar()
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="text-center ml-auto">
             <Nav.Item>
-                <Nav.Link className="custom_nav_items" href="#/" >Insights</Nav.Link>
+                <Nav.Link className="custom_nav_items" to="/" >Insights</Nav.Link>
               </Nav.Item>
-              <Nav.Link className="text-primary custom_nav_items" href="/features"></Nav.Link>
+              <Nav.Link className="text-primary custom_nav_items" to="/features"></Nav.Link>
               <NavDropdown title="Innovation Labs" id="collasible-nav-dropdown1">
-                <NavDropdown.Item className="text-primary" target="_target" href="#/research">Research & Development</NavDropdown.Item>
-                <NavDropdown.Item className="text-primary" target="_target" href="#/productdev">Product Development</NavDropdown.Item>
+                <NavDropdown.Item className="text-primary" target="_target" to="/research">Research & Development</NavDropdown.Item>
+                <NavDropdown.Item className="text-primary" target="_target" to="/productdev">Product Development</NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link className="text-primary custom_nav_items" href="/features1"></Nav.Link>
+              <Nav.Link className="text-primary custom_nav_items" to="/features1"></Nav.Link>
               <NavDropdown title="Learning" id="collasible-nav-dropdown2">
                 <NavDropdown.Item className="text-primary" target="_blank" href="https://hashcodejr.lejhro.com">HashCode JR</NavDropdown.Item>
                 <NavDropdown.Item className="text-primary" target="_blank" href="https://tensor.lejhro.com">Lejhro Tensor</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link className="text-primary custom_nav_items" href="#features1"></Nav.Link>
               <NavDropdown title="Services" id="collasible-nav-dropdown2">
-                <NavDropdown.Item className="text-primary" target="_target"  href="#/consulting">Consulting</NavDropdown.Item>
-                <NavDropdown.Item className="text-primary" target="_target" href="#/outsourcing">Outsourcing</NavDropdown.Item>
+                <NavDropdown.Item className="text-primary" target="_target"  to="/consulting">Consulting</NavDropdown.Item>
+                <NavDropdown.Item className="text-primary" target="_target" to="/outsourcing">Outsourcing</NavDropdown.Item>
               </NavDropdown>
               <Nav.Item>
-                <Nav.Link className="custom_nav_items" target="_self" href="#/about">About Lejhro
+                <Nav.Link className="custom_nav_items" target="_self" to="/about">About Lejhro
                 </Nav.Link>
               </Nav.Item>
             </Nav>
