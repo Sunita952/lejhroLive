@@ -20,12 +20,12 @@ function TopNavbar()
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="text-center ml-auto">
             <Nav.Item>
-                <Nav.Link className="custom_nav_items" href="#/" >Insights</Nav.Link>
+                <Nav.Link className="custom_nav_items" href="/" >Insights</Nav.Link>
               </Nav.Item>
               <Nav.Link className="text-primary custom_nav_items" href="/features"></Nav.Link>
               <NavDropdown title="Innovation Labs" id="collasible-nav-dropdown1">
-                <NavDropdown.Item target="_self" href="/#/research">Research & Development</NavDropdown.Item>
-                <NavDropdown.Item target="_self" href="/#/productdev">Product Development</NavDropdown.Item>
+                <NavDropdown.Item target="_self" href="/research">Research & Development</NavDropdown.Item>
+                <NavDropdown.Item target="_self" href="/productdev">Product Development</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link className="text-primary custom_nav_items" href="/features1"></Nav.Link>
               <NavDropdown title="Learning" id="collasible-nav-dropdown2">
@@ -34,11 +34,11 @@ function TopNavbar()
               </NavDropdown>
               <Nav.Link className="custom_nav_items" href="/features2"></Nav.Link>
               <NavDropdown title="Services" id="collasible-nav-dropdown2">
-                <NavDropdown.Item target="_self" href="/#/consulting">Consulting</NavDropdown.Item>
-                <NavDropdown.Item target="_self" href="/#/outsourcing">Outsourcing</NavDropdown.Item>
+                <NavDropdown.Item target="_self" href="/consulting">Consulting</NavDropdown.Item>
+                <NavDropdown.Item target="_self" href="/outsourcing">Outsourcing</NavDropdown.Item>
               </NavDropdown>
               <Nav.Item>
-                <Nav.Link className="custom_nav_items" target="_self" href="#/about">About Lejhro
+                <Nav.Link className="custom_nav_items" target="_self" href="/about">About Lejhro
                 </Nav.Link>
               </Nav.Item>
             </Nav>
