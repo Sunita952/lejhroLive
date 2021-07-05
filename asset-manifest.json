@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lejhroLive/static/css/main.3b37cd64.chunk.css",
-    "main.js": "/lejhroLive/static/js/main.96400f99.chunk.js",
-    "main.js.map": "/lejhroLive/static/js/main.96400f99.chunk.js.map",
-    "runtime-main.js": "/lejhroLive/static/js/runtime-main.13e5cfa2.js",
-    "runtime-main.js.map": "/lejhroLive/static/js/runtime-main.13e5cfa2.js.map",
-    "static/css/2.d45d6843.chunk.css": "/lejhroLive/static/css/2.d45d6843.chunk.css",
-    "static/js/2.e69f9654.chunk.js": "/lejhroLive/static/js/2.e69f9654.chunk.js",
-    "static/js/2.e69f9654.chunk.js.map": "/lejhroLive/static/js/2.e69f9654.chunk.js.map",
-    "static/js/3.4929c714.chunk.js": "/lejhroLive/static/js/3.4929c714.chunk.js",
-    "static/js/3.4929c714.chunk.js.map": "/lejhroLive/static/js/3.4929c714.chunk.js.map",
-    "index.html": "/lejhroLive/index.html",
-    "static/css/2.d45d6843.chunk.css.map": "/lejhroLive/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.3b37cd64.chunk.css.map": "/lejhroLive/static/css/main.3b37cd64.chunk.css.map",
-    "static/js/2.e69f9654.chunk.js.LICENSE.txt": "/lejhroLive/static/js/2.e69f9654.chunk.js.LICENSE.txt"
+    "main.css": "/lejhro/static/css/main.3b37cd64.chunk.css",
+    "main.js": "/lejhro/static/js/main.c6549fc4.chunk.js",
+    "main.js.map": "/lejhro/static/js/main.c6549fc4.chunk.js.map",
+    "runtime-main.js": "/lejhro/static/js/runtime-main.5c34bcbf.js",
+    "runtime-main.js.map": "/lejhro/static/js/runtime-main.5c34bcbf.js.map",
+    "static/css/2.d45d6843.chunk.css": "/lejhro/static/css/2.d45d6843.chunk.css",
+    "static/js/2.e69f9654.chunk.js": "/lejhro/static/js/2.e69f9654.chunk.js",
+    "static/js/2.e69f9654.chunk.js.map": "/lejhro/static/js/2.e69f9654.chunk.js.map",
+    "static/js/3.4929c714.chunk.js": "/lejhro/static/js/3.4929c714.chunk.js",
+    "static/js/3.4929c714.chunk.js.map": "/lejhro/static/js/3.4929c714.chunk.js.map",
+    "index.html": "/lejhro/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/lejhro/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.3b37cd64.chunk.css.map": "/lejhro/static/css/main.3b37cd64.chunk.css.map",
+    "static/js/2.e69f9654.chunk.js.LICENSE.txt": "/lejhro/static/js/2.e69f9654.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13e5cfa2.js",
+    "static/js/runtime-main.5c34bcbf.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.e69f9654.chunk.js",
     "static/css/main.3b37cd64.chunk.css",
-    "static/js/main.96400f99.chunk.js"
+    "static/js/main.c6549fc4.chunk.js"
   ]
 }
