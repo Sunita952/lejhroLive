@@ -20,7 +20,10 @@ function TopNavbar()
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="text-center ml-auto">
             <Nav.Item>
-                <Nav.Link className="custom_nav_items" href="#/" >Insights</Nav.Link>
+                <Nav.Link className="custom_nav_items" href="#/" ></Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link className="custom_nav_items" href="#/insights" >Insights</Nav.Link>
               </Nav.Item>
               <Nav.Link className="text-primary custom_nav_items" href="/features"></Nav.Link>
               <NavDropdown title="Innovation Labs" id="collasible-nav-dropdown1">

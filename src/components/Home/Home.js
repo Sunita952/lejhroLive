@@ -2,7 +2,7 @@ import React from 'react';
 import TopNavbar from './TopNavbar';
 import ScrollNavHome from './ScrollNavHome';
 
-function Insights()
+function Home()
 {
   return(
     <>
@@ -12,4 +12,4 @@ function Insights()
   )
 }
 
-export default Insights;
+export default Home;
